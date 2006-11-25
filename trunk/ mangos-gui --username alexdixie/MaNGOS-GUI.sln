@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C# Express 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaNGOS-GUI", "MaNGOS-GUI\MaNGOS-GUI.csproj", "{65D7F33A-DF51-4F14-86B9-BB0AC32EA909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Configuration Editor", "Configuration Editor\Configuration Editor.csproj", "{2675B795-FF16-4B67-B127-6905B80743FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MGResources", "MGResources\MGResources.csproj", "{28EA049F-36D3-4C0A-98DF-72976911B23E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65D7F33A-DF51-4F14-86B9-BB0AC32EA909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D7F33A-DF51-4F14-86B9-BB0AC32EA909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D7F33A-DF51-4F14-86B9-BB0AC32EA909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D7F33A-DF51-4F14-86B9-BB0AC32EA909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2675B795-FF16-4B67-B127-6905B80743FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2675B795-FF16-4B67-B127-6905B80743FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2675B795-FF16-4B67-B127-6905B80743FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2675B795-FF16-4B67-B127-6905B80743FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28EA049F-36D3-4C0A-98DF-72976911B23E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28EA049F-36D3-4C0A-98DF-72976911B23E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28EA049F-36D3-4C0A-98DF-72976911B23E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28EA049F-36D3-4C0A-98DF-72976911B23E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

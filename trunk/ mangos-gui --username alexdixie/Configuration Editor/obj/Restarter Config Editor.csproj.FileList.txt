@@ -1,0 +1,16 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\WindowsApplication1.Form1.resources
+obj\Release\WindowsApplication1.Properties.Resources.resources
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.Form1.resources
+obj\Debug\WindowsApplication1.Properties.Resources.resources
+obj\Debug\Restarter Config Editor.csproj.GenerateResource.Cache
+bin\Debug\Restarter Config Editor.exe
+bin\Debug\Restarter Config Editor.pdb
+obj\Debug\Restarter Config Editor.exe
+obj\Debug\Restarter Config Editor.pdb
+obj\Release\Restarter Config Editor.csproj.GenerateResource.Cache
+bin\Release\Restarter Config Editor.exe
+bin\Release\Restarter Config Editor.pdb
+obj\Release\Restarter Config Editor.exe
+obj\Release\Restarter Config Editor.pdb
