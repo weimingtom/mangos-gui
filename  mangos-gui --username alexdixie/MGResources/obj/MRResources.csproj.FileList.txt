@@ -1,0 +1,6 @@
+bin\Release\MRResources.dll
+bin\Release\MRResources.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\MRResources.dll
+obj\Release\MRResources.pdb
+bin\Release\config.xml

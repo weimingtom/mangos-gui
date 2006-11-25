@@ -1,0 +1,39 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\WindowsApplication1.Properties.Resources.resources
+obj\Release\Configuration Editor.csproj.GenerateResource.Cache
+bin\Release\Configuration Editor.exe
+bin\Release\Configuration Editor.pdb
+obj\Release\Configuration Editor.exe
+obj\Release\Configuration Editor.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.Properties.Resources.resources
+obj\Debug\Configuration Editor.csproj.GenerateResource.Cache
+bin\Debug\Configuration Editor.exe
+bin\Debug\Configuration Editor.pdb
+obj\Debug\Configuration Editor.exe
+obj\Debug\Configuration Editor.pdb
+obj\Release\ConfigurationEditor.Form1.resources
+bin\Release\MRResources.dll
+bin\Release\MRResources.pdb
+bin\Release\config.xml
+bin\Debug\MRResources.dll
+bin\Debug\MRResources.pdb
+obj\Debug\ConfigurationEditor.Form1.resources
+..\..\MaNGOS-GUI\MaNGOS-GUI\bin\Release\config.xml
+..\..\MaNGOS-GUI\MaNGOS-GUI\bin\Release\Configuration Editor.exe
+..\..\MaNGOS-GUI\MaNGOS-GUI\bin\Release\Configuration Editor.pdb
+..\MaNGOS-GUI\bin\config.xml
+..\MaNGOS-GUI\bin\Configuration Editor.exe
+..\MaNGOS-GUI\bin\Configuration Editor.pdb
+..\MaNGOS-GUI\bin\Release\Configuration Editor.exe
+..\MaNGOS-GUI\bin\Release\Configuration Editor.pdb
+bin\Debug\Configuration Editor.exe.manifest
+bin\Debug\Configuration Editor.application
+obj\Debug\Configuration Editor.TrustInfo.xml
+obj\Debug\Configuration Editor.exe.manifest
+obj\Debug\Configuration Editor.application
+..\MaNGOS-GUI\bin\Release\Configuration Editor.exe.manifest
+..\MaNGOS-GUI\bin\Release\Configuration Editor.application
+obj\Release\Configuration Editor.TrustInfo.xml
+obj\Release\Configuration Editor.exe.manifest
+obj\Release\Configuration Editor.application
