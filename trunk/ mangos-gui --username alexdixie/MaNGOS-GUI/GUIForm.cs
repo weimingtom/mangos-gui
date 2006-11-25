@@ -621,7 +621,7 @@ namespace MaNGOS_GUI
             {
                 restarterTimer.Enabled = false;
                 //restarterTimer2.Enabled = false;
-                iTime = 0;
+                
                 restarterButton.Text = "Start Restarter";
                 label7.Text = "Restarter Stopped.";
                 WriteLog("Restarter Stopped", Color.Red);
@@ -646,7 +646,7 @@ namespace MaNGOS_GUI
                         try
                         {
                             Process.Start("\"" + AppPath + "\\" + mangosName + ".exe\"");
-                            iTime = 0; //Reset timer for uptime
+                            
                         }
                         catch (Win32Exception) //Need exception code for "file not found" currently catches all exceptions and treats as not finding the file.
                         {
@@ -671,7 +671,6 @@ namespace MaNGOS_GUI
                         try
                         {
                             Process.Start("\"" + rAppPath + "\\" + realmName + ".exe\"");
-                            iTime = 0;
                         }
                         catch (Win32Exception)
                         {
@@ -1008,6 +1007,7 @@ namespace MaNGOS_GUI
 
         private void button6_Click(object sender, EventArgs e)
         {
+            rStarted = true;
             restarterButton_Click(null, null);
             if (checkBox2.Checked == true)
             {
@@ -1041,6 +1041,8 @@ namespace MaNGOS_GUI
 
         private void button18_Click(object sender, EventArgs e)
         {
+            rStarted = false;
+            
             if (checkBox2.Checked == true)
             {
                 if (Process.GetProcessesByName(mangosName).Length > 0)
@@ -1077,10 +1079,12 @@ namespace MaNGOS_GUI
                 }
 
             }
+            restarterButton_Click(null, null);
         }
 
         private void button19_Click(object sender, EventArgs e)
         {
+            rStarted = true;
             restarterButton_Click(null, null);
             if (checkBox2.Checked == true)
             {
